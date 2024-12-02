@@ -1,6 +1,6 @@
 <?php
 
-namespace Bytes\Buyers\ConfigManager;
+namespace Bytesopensource\Buyers\ConfigManager;
 
 class ConfigManager
 {

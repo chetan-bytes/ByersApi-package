@@ -2,6 +2,6 @@
 
 require 'src/ConfigManager.php';
 
-use Bytes\Buyers\ConfigManager\ConfigManager;
+use Bytesopensource\Buyers\ConfigManager\ConfigManager;
 
 ConfigManager::handleCLI();

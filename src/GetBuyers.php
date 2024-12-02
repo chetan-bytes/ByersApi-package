@@ -1,6 +1,6 @@
 <?php
 
-namespace Bytes\Buyers\GetBuyers;
+namespace Bytesopensource\Buyers\GetBuyers;
 
 class GetBuyers
 {

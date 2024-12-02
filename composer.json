@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Bytes\\Buyers\\": "src/"
+            "Bytesopensource\\Buyers\\": "src/"
         }
     },
     "scripts": { 
