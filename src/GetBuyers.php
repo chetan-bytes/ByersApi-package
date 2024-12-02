@@ -58,7 +58,7 @@ class GetBuyers
                     break;
                 }
             }
-            json_encode($result);
+            return json_encode($result);
         } catch (\Exception $e) {
             echo "Caught exception: " . $e->getMessage();
         }
