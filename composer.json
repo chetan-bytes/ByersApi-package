@@ -1,0 +1,16 @@
+{
+    "name": "bytes/buyers",
+    "description": "Cake API call for buyers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bytes\\Buyers\\": "src/"
+        }
+    },
+    "scripts": { 
+        "generate-config": "php generate-config.php"  
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
